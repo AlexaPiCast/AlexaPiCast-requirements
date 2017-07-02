@@ -1,6 +1,8 @@
 # AlexaPiCast-requirements
 Requirements for AlexaPiCast
 
+This is built & tested in [Raspbian Jessie](https://www.raspberrypi.org/downloads/raspbian/).
+
 In your Raspberry Pi, you should install and run:
 
 * https://github.com/alexa-pi/AlexaPi
